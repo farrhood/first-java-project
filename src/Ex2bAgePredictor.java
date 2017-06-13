@@ -13,7 +13,7 @@ public class Ex2bAgePredictor {
         System.out.println("Geef uw leeftijd");
 
         int age = s.nextInt();
-        
+
         System.out.println("Hello " + naam + "! Next year you will be " + (age + 1));
     }
 }
