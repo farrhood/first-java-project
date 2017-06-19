@@ -1,3 +1,5 @@
+package ninja.farhood.exercises;
+
 public class Primer {
     public static void main(String[] args) {
 

@@ -1,4 +1,4 @@
-// Dit is de oplossing van oefening 1.5
+package ninja.farhood.exercises;// Dit is de oplossing van oefening 1.5
 
 public class MilesPerHour {
     public static void main(String[] args) {

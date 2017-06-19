@@ -1,3 +1,4 @@
+package ninja.farhood.exercises;
 
 import java.util.Scanner;
 

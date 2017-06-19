@@ -1,3 +1,5 @@
+package ninja.farhood.exercises;
+
 import java.util.Arrays;
 import java.util.Random;
 

@@ -1,3 +1,5 @@
+package ninja.farhood.exercises;
+
 public class Calculator {
     public static int som(int a, int b) {
 

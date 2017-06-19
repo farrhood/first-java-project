@@ -1,3 +1,5 @@
+package ninja.farhood.exercises;
+
 public class Pi {
     public static void main(String[] args) {
 
@@ -10,7 +12,7 @@ public class Pi {
             sign *= -1;
         }
         double closeToPi = 4 * sum;
-        System.out.println("Pi = " + closeToPi);
+        System.out.println("ninja.farhood.exercises.Pi = " + closeToPi);
 
     }
 }

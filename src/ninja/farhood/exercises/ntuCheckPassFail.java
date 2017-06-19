@@ -1,3 +1,5 @@
+package ninja.farhood.exercises;
+
 public class ntuCheckPassFail {
     public static void main(String[] args) {
 

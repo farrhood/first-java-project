@@ -1,3 +1,4 @@
+package ninja.farhood.exercises;
 
 public class MilesPerHourCaller {
     public static void main(String[] args) {

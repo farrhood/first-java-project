@@ -1,3 +1,5 @@
+package ninja.farhood.exercises;
+
 public class MilesPerHourConverter {
     public static double product(double afstand, double tijd) {
 

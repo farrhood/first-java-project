@@ -1,3 +1,5 @@
+package ninja.farhood.exercises;
+
 public class ntuCheckOddEven {
     public static void main(String[] args) {
 
