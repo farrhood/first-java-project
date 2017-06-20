@@ -7,7 +7,7 @@ public class Circle implements GeometricObject {
 
     // Implement methods defined in the interface GeometricObject
     @Override
-    public double getPerimeter() {}
+    public double getPerimeter() {return 0;}
 
     @Override
     public double getArea() {
